@@ -13,4 +13,8 @@ public class SampleJava {
 	public int mul(int a,int b) {
 		return a*b;
 	}
+	
+	public int newCal(int a,int b,int c) {
+		return a-b+c;	
+	}
 }
